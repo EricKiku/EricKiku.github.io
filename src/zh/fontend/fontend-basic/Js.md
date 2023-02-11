@@ -619,7 +619,7 @@ fun1();/指向全局的name
 >
 > :yellow_heart::原型对象也是对象，也有原型对象,`mc.__proto__.__proto__`是访问原型对象的原型，再原型就是`Object`，再往后就没有原型了
 
-![image-20220804171338644](D:\Typora\images\image-20220804171338644.png)
+![image-20220804171338644](/assets/images/image-20220804171338644.png)
 
 ```js
 function Person(name,age){

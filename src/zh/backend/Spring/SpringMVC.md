@@ -297,7 +297,7 @@ public class RequestMappingController {
 >
 > **:代表任意的一层或多层目录
 
-![image-20220328140029816](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220328140029816.png)
+![image-20220328140029816](/assets/images/image-20220328140029816.png)
 
 ## 8.SpringMVC支持路径中的占位符
 

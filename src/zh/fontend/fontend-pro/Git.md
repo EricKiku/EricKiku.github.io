@@ -225,11 +225,11 @@ git reset --hard 版本号
 
 ### 创建一个远程库
 
-![image-20220907160437604](D:\Typora\images\image-20220907160437604.png)
+![image-20220907160437604](/assets/images/image-20220907160437604.png)
 
 点击加号，点击`New repository`
 
-![image-20220907160605543](D:\Typora\images\image-20220907160605543.png)
+![image-20220907160605543](/assets/images/image-20220907160605543.png)
 
 ## 远程仓库操作
 
@@ -255,7 +255,7 @@ git remote add git-demo https://github.com/EricKiku/git-demo.git
 git remove -v
 ```
 
-![image-20220907161527474](D:\Typora\images\image-20220907161527474.png)
+![image-20220907161527474](/assets/images/image-20220907161527474.png)
 
 3. #### 把本地库的分支推送到远程库中
 
@@ -283,7 +283,7 @@ git clone 地址
 
 
 
-![image-20220907165643872](D:\Typora\images\image-20220907165643872.png)
+![image-20220907165643872](/assets/images/image-20220907165643872.png)
 
 但是推送时，会显示没有权限。需要在远程库的`Settings-Collaborators`来邀请人，
 
@@ -418,7 +418,7 @@ target
 
 打开IDEA时
 
-![image-20220907204047782](D:\Typora\images\image-20220907204047782.png)
+![image-20220907204047782](/assets/images/image-20220907204047782.png)
 
 点击从VCS获取，可以使用远程库的`Https链接或SSH链接`来克隆远程库的项目，称为`down`
 

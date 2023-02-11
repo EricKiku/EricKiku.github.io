@@ -238,7 +238,7 @@ container.innerHTML = divStr
 
 ## mustache库的机理
 
-![image-20221014164225819](D:\Typora\images\image-20221014164225819.png)
+![image-20221014164225819](/assets/images/image-20221014164225819.png)
 
 ## tokens
 

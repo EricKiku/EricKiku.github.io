@@ -172,7 +172,7 @@ console.log("我是前")
 
 ## 原型
 
-![原型结构](D:\Typora\images\原型结构.png)
+![原型结构](/assets/images/原型结构.png)
 
 每一个函数都有一个`prototype`属性，指向该函数的原型对象
 

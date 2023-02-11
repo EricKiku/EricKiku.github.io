@@ -83,7 +83,7 @@ const user={
 
 html代码中使用vue直接写出vue基础模板
 
-![image-20220413151327091](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220413151327091.png)
+![image-20220413151327091](/assets/images/image-20220413151327091.png)
 
 
 
@@ -970,7 +970,7 @@ this.options.unshift('aaa')
 `</script>`
 ```
 
-![image-20220415210916483](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220415210916483.png)
+![image-20220415210916483](/assets/images/image-20220415210916483.png)
 
 ## v-model结合select
 
@@ -1344,7 +1344,7 @@ this.options.unshift('aaa')
 * 通过props向子组件传递数据
 * 通过事件向父组件发送消息
 
-![image-20220417174308400](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220417174308400.png)
+![image-20220417174308400](/assets/images/image-20220417174308400.png)
 
 ### 父组件向子组件传输数据
 
@@ -1557,7 +1557,7 @@ this.options.unshift('aaa')
 `</script>`
 ```
 
-![image-20220418094151080](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220418094151080.png)
+![image-20220418094151080](/assets/images/image-20220418094151080.png)
 
 ### 具名插槽slot
 
@@ -1593,7 +1593,7 @@ this.options.unshift('aaa')
 `</script>`
 ```
 
-![image-20220418104333702](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220418104333702.png)
+![image-20220418104333702](/assets/images/image-20220418104333702.png)
 
 # Webpack
 
@@ -1643,19 +1643,19 @@ src：源码			dist：打包
 >`
 >` vue create 项目名称
 
-![image-20220419091858429](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220419091858429.png)
+![image-20220419091858429](/assets/images/image-20220419091858429.png)
 
 默认和手动
 
 *以下是点击手动后*
 
-![image-20220419092020480](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220419092020480.png)
+![image-20220419092020480](/assets/images/image-20220419092020480.png)
 
 上下选择，空格选中，手动配置
 
 选择之后回车，到以下步骤
 
-![image-20220419092459651](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220419092459651.png)
+![image-20220419092459651](/assets/images/image-20220419092459651.png)
 
 1.放在单独的配置文件中		√
 
@@ -1663,7 +1663,7 @@ src：源码			dist：打包
 
 *点击第一个后，到下面步骤，询问是否保存*
 
-![image-20220419092647214](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220419092647214.png)
+![image-20220419092647214](/assets/images/image-20220419092647214.png)
 
 选y
 
@@ -1691,7 +1691,7 @@ src：源码			dist：打包
 
 >` npm install vue-router --save
 
-![image-20220419153931918](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220419153931918.png)
+![image-20220419153931918](/assets/images/image-20220419153931918.png)
 
 ## 路由配置方式
 
@@ -1848,11 +1848,11 @@ to可以改变url地址。tag可以将``<a>``标签改为``<button>``标签,repl
 
 index.js:
 
-![image-20220419165940577](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220419165940577.png)
+![image-20220419165940577](/assets/images/image-20220419165940577.png)
 
 再在App.vue中设置一个css样式，可以对应到active
 
-![image-20220419170307964](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220419170307964.png)
+![image-20220419170307964](/assets/images/image-20220419170307964.png)
 
 
 

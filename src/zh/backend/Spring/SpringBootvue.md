@@ -24,7 +24,7 @@ Web 框架：`Vue`+`ElementUI`
 
 `CS(Client/Server)`：客户端/服务器架构模式。如QQ
 
-![image-20221123184239514](D:\Typora\images\image-20221123184239514.png)
+![image-20221123184239514](/assets/images/image-20221123184239514.png)
 
 # 后端
 
@@ -70,21 +70,21 @@ Maven配置：
 
 IDEA配置
 
-![image-20221123192438255](D:\Typora\images\image-20221123192438255.png)
+![image-20221123192438255](/assets/images/image-20221123192438255.png)
 
 在第一处修改maven的目录。在第二处修改maven配置文件位置
 
 ## SpringBoot
 
-![image-20221123193453561](D:\Typora\images\image-20221123193453561.png)
+![image-20221123193453561](/assets/images/image-20221123193453561.png)
 
 ### 快速创建
 
-![image-20221123193701581](D:\Typora\images\image-20221123193701581.png)
+![image-20221123193701581](/assets/images/image-20221123193701581.png)
 
 `组：`一般是公司域名倒写
 
-![image-20221123194013068](D:\Typora\images\image-20221123194013068.png)
+![image-20221123194013068](/assets/images/image-20221123194013068.png)
 
 开发web应用，需要勾选`Web-Spring Web`。会自动安装SpringMVC相关依赖
 
@@ -199,7 +199,7 @@ public class controllerTest {
 * `produces`：响应的媒体类型
 * `params，headers`：请求的参数及请求头的值
 
-![image-20221124090140143](D:\Typora\images\image-20221124090140143.png)
+![image-20221124090140143](/assets/images/image-20221124090140143.png)
 
 Method匹配
 
@@ -433,7 +433,7 @@ public class WebConfig implements WebMvcConfigurer {
 * 资源的表示形式是JSON或HTML
 * 安全性：安全的方法被期望不会产生任何副作用，比如发送GET请求，只是获取资源，不会引起资源本身的改变，也不会引起服务器状态的改变
 * 常见的RESTful风格
-  ![image-20221124123230703](D:\Typora\images\image-20221124123230703.png)
+  ![image-20221124123230703](/assets/images/image-20221124123230703.png)
 
 ==HTTP状态码：==
 
@@ -443,7 +443,7 @@ public class WebConfig implements WebMvcConfigurer {
 * 3xx：重定向，表示客户端必须执行一些其他操作才能完成其请求
 * 4xx：客户端错误，指客户端发生错误
 * 5xx：服务器错误，指服务器发生错误
-* ![image-20221124123551365](D:\Typora\images\image-20221124123551365.png)
+* ![image-20221124123551365](/assets/images/image-20221124123551365.png)
 
 ==SpringBoot实现RESTful API==
 

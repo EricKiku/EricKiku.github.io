@@ -12,7 +12,7 @@ tag:
 
 
 
-![image-20220510202246421](../../../../src/.vuepress/public/assets/images/image-20220510202246421.png)
+![image-20220510202246421](/assets/images/image-20220510202246421.png)
 
 # 快速创建
 
@@ -247,7 +247,7 @@ public void testUpdate(){
 
 插入两个字段create_time和update_time，在默认列填写:`CURRENT_TIMESTAMP`，默认当前时间
 
-![image-20220602134845631](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220602134845631.png)
+![image-20220602134845631](/assets/images/image-20220602134845631.png)
 
 测试插入方法：
 
@@ -471,7 +471,7 @@ mybatis-plus:
 
 1.给数据库中新增一个version字段
 
-![image-20220602144248023](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220602144248023.png)
+![image-20220602144248023](/assets/images/image-20220602144248023.png)
 
 2.更新实体类
 

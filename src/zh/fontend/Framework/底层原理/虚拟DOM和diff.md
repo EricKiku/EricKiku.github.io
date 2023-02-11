@@ -322,7 +322,7 @@ patch:修补的意思。旨在对DOM最小量更新
 
 `patch函数`流程图
 
-![image-20221017184647447](D:\Typora\images\image-20221017184647447.png)
+![image-20221017184647447](/assets/images/image-20221017184647447.png)
 
 
 
