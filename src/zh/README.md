@@ -4,7 +4,7 @@ hero: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: /mylogo.jpg
+heroImage: /roundmylogo.png
 heroText: EricKiku's Blog
 heroFullScreen: true
 tagline: 少年心事当拿云，谁念幽寒坐呜咽。

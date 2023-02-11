@@ -4,14 +4,14 @@ import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://mister-hope.github.io",
-
+  darkmode:"enable",
   author: {
     name: "EricKiku",
     url: "https://github.com/EricKiku",
    
   },
   iconAssets: "iconfont",
-  logo: "/mylogo.jpg",
+  logo: "/roundmylogo.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
