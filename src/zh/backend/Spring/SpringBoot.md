@@ -1,6 +1,6 @@
 ---
 title: SpringBoot
-icon: markdown
+icon: bxl-spring-boot
 category:
   - 后端
 tag:

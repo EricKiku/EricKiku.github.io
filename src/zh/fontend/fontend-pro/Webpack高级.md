@@ -1,6 +1,6 @@
 ---
 title: Webpack进阶
-icon: markdown
+icon: webpack
 category:
   - 前端
   - 工具

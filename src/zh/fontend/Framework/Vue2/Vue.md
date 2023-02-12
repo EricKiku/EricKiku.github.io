@@ -1,6 +1,6 @@
 ---
 title: Vue2(上)
-icon: markdown
+icon: Vue
 category:
   - 前端
   - 框架

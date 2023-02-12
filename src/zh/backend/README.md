@@ -1,7 +1,7 @@
 ---
 title: 后端笔记
 index: false
-icon: discover
+icon: java
 category:
   - 目录
 ---

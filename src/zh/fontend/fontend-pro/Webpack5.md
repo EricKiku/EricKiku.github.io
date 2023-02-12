@@ -1,6 +1,6 @@
 ---
 title: Webpack5
-icon: markdown
+icon: webpack
 category:
   - 前端
   - 工具

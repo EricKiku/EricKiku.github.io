@@ -1,6 +1,6 @@
 ---
 title: Js基础
-icon: markdown
+icon: socialjavascript
 category:
   - 前端
 tag:

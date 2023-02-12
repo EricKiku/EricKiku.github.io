@@ -1,6 +1,6 @@
 ---
 title: Pinia
-icon: markdown
+icon: boluo
 category:
   - 前端
   - 工具

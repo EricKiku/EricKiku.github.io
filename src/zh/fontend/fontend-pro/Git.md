@@ -1,6 +1,6 @@
 ---
 title: Git
-icon: markdown
+icon: git
 category:
   - 工具
 tag:

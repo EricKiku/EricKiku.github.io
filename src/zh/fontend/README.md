@@ -1,7 +1,7 @@
 ---
 title: 前端笔记
 index: false
-icon: discover
+icon: html
 category:
   - 目录
 ---

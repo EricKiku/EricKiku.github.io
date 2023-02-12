@@ -1,6 +1,6 @@
 ---
 title: Less
-icon: markdown
+icon: less
 category:
   - 前端
 tag:

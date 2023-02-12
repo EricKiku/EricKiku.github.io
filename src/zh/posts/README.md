@@ -1,6 +1,6 @@
 ---
 title: 随笔博文
-icon: markdown
+icon: note
 category:
   - 随笔
 ---

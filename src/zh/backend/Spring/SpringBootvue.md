@@ -1,6 +1,6 @@
 ---
 title: SpringBoot+Vue
-icon: markdown
+icon: bxl-spring-boot
 category:
   - 前端
   - 后端

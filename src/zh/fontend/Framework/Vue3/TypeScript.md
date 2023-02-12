@@ -1,6 +1,6 @@
 ---
 title: TypeScript
-icon: markdown
+icon: typescript-def
 category:
   - 前端
 tag:

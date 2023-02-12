@@ -1,6 +1,6 @@
 ---
 title: MyBatis-Plus
-icon: markdown
+icon: Bird
 category:
   - 后端
 tag:

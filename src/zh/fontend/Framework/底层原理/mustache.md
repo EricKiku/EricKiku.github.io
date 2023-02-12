@@ -1,6 +1,6 @@
 ---
 title: mustache
-icon: markdown
+icon: dicengjiagou
 category:
   - 前端
   - 原理

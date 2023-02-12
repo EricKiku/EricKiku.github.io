@@ -1,6 +1,6 @@
 ---
 title: Ajax
-icon: markdown
+icon: aJax
 category:
   - 前端
 tag:

@@ -4,13 +4,13 @@ import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://mister-hope.github.io",
-  darkmode:"enable",
+  darkmode:"auto",
   author: {
     name: "EricKiku",
     url: "https://github.com/EricKiku",
    
   },
-  iconAssets: "iconfont",
+  iconAssets: "//at.alicdn.com/t/c/font_3891536_w21t01snma.css",
   logo: "/roundmylogo.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
@@ -28,26 +28,26 @@ export default hopeTheme({
   },
 
   locales: {
-    "/": {
-      // navbar
-      navbar: enNavbar,
+    // "/": {
+    //   // navbar
+    //   navbar: enNavbar,
 
-      // sidebar
-      sidebar: enSidebar,
+    //   // sidebar
+    //   sidebar: enSidebar,
 
-      footer: "Default footer",
+    //   footer: "Default footer",
 
-      displayFooter: true,
+    //   displayFooter: true,
 
-      blog: {
-        description: "A FrontEnd programmer",
-        intro: "/intro.html",
-      },
+    //   blog: {
+    //     description: "A FrontEnd programmer",
+    //     intro: "/intro.html",
+    //   },
 
-      metaLocales: {
-        editLink: "Edit this page on GitHub",
-      },
-    },
+    //   metaLocales: {
+    //     editLink: "Edit this page on GitHub",
+    //   },
+    // },
 
     /**
      * Chinese locale config
