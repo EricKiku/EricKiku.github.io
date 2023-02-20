@@ -118,5 +118,6 @@ export const zhSidebar = sidebar({
     {text:'操作系统笔记',icon:'caozuoxitong',link:"操作系统"},
     {text:'项目笔记',icon:'project',link:"项目笔记"},
     {text:'算法笔记',icon:'suanfaku',link:"算法"},
+    {text:'操作系统重点',icon:'kaoshi',link:"操作系统重点"},
   ]
 });
