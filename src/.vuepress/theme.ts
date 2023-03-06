@@ -4,7 +4,7 @@ import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://mister-hope.github.io",
-  darkmode:"auto",
+  darkmode:"toggle",
   author: {
     name: "EricKiku",
     url: "https://github.com/EricKiku",
