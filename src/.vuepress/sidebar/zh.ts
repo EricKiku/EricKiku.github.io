@@ -121,5 +121,9 @@ export const zhSidebar = sidebar({
     {text:'操作系统重点',icon:'kaoshi',link:"操作系统重点"},
     {text:'软件设计重点',icon:'xitongjianmo',link:"软件设计重点"},
     {text:'前端八股文',icon:'xitongjianmo',link:"前端八股文(面试题)"},
+  ],
+  "/zh/master/":[
+    "",
+    {text:'大师课-1',icon:'note',link:"大师课-1"},
   ]
 });

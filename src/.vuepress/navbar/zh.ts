@@ -6,4 +6,5 @@ export const zhNavbar = navbar([
   { text: "前端", icon: "html", link: "/zh/fontend/" },
   { text: "后端", icon: "java", link: "/zh/backend/" },
   { text: "博文",icon: "note",link: "/zh/posts/"},
+  { text: "大师课",icon: "note",link: "/zh/master/"},
 ]);
