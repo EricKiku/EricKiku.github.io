@@ -125,5 +125,6 @@ export const zhSidebar = sidebar({
   "/zh/master/":[
     "",
     {text:'大师课-1',icon:'note',link:"大师课-1"},
+    {text:'大师课-2',icon:'note',link:"大师课-2"},
   ]
 });
