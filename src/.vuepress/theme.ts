@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://github.com/EricKiku",
    
   },
-  iconAssets: "//at.alicdn.com/t/c/font_3891536_2n3yubzsszd.css",
+  iconAssets: "//at.alicdn.com/t/c/font_3891536_m1kfbspu1y.css",
   logo: "/roundmylogo.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",

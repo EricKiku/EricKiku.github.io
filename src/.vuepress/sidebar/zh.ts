@@ -12,7 +12,7 @@ export const zhSidebar = sidebar({
     "intro",
     "slides",
   ],
-  "/zh/fontend/":[
+  "/zh/fontend/": [
     "",
     {
       text: "前端基础",
@@ -85,7 +85,7 @@ export const zhSidebar = sidebar({
       ],
     },
   ],
-  "/zh/backend/":[
+  "/zh/backend/": [
     "",
     {
       text: "Spring",
@@ -109,23 +109,32 @@ export const zhSidebar = sidebar({
         { text: "MyBatis-Plus", link: "MyBatis-Plus", icon: "Bird" },
       ],
     },
+    {
+      text: "Golang",
+      icon: "golang",
+      prefix: "Golang/",
+      collapsible: true,
+      children: [
+        { text: "Golang", link: "Golang", icon: "golang" },
+      ],
+    },
   ],
-  "/zh/posts/":[
+  "/zh/posts/": [
     "",
-    {text:'封装工具库',icon:'org-utility',link:"工具库"},
-    {text:'背景动态代码',icon:'org-utility',link:"背景吸附鼠标动态代码"},
-    {text:'日语笔记',icon:'icon-test',link:"日语笔记"},
-    {text:'操作系统笔记',icon:'caozuoxitong',link:"操作系统"},
-    {text:'项目笔记',icon:'project',link:"项目笔记"},
-    {text:'算法笔记',icon:'suanfaku',link:"算法"},
-    {text:'操作系统重点',icon:'kaoshi',link:"操作系统重点"},
-    {text:'软件设计重点',icon:'xitongjianmo',link:"软件设计重点"},
-    {text:'前端八股文',icon:'xitongjianmo',link:"前端八股文(面试题)"},
-    {text:'网络工程师',icon:'xitongjianmo',link:"网络工程师"},
+    { text: '封装工具库', icon: 'org-utility', link: "工具库" },
+    { text: '背景动态代码', icon: 'org-utility', link: "背景吸附鼠标动态代码" },
+    { text: '日语笔记', icon: 'icon-test', link: "日语笔记" },
+    { text: '操作系统笔记', icon: 'caozuoxitong', link: "操作系统" },
+    { text: '项目笔记', icon: 'project', link: "项目笔记" },
+    { text: '算法笔记', icon: 'suanfaku', link: "算法" },
+    { text: '操作系统重点', icon: 'kaoshi', link: "操作系统重点" },
+    { text: '软件设计重点', icon: 'xitongjianmo', link: "软件设计重点" },
+    { text: '前端八股文', icon: 'xitongjianmo', link: "前端八股文(面试题)" },
+    { text: '网络工程师', icon: 'xitongjianmo', link: "网络工程师" },
   ],
-  "/zh/master/":[
+  "/zh/master/": [
     "",
-    {text:'大师课-1',icon:'note',link:"大师课-1"},
-    {text:'大师课-2',icon:'note',link:"大师课-2"},
+    { text: '大师课-1', icon: 'note', link: "大师课-1" },
+    { text: '大师课-2', icon: 'note', link: "大师课-2" },
   ]
 });
