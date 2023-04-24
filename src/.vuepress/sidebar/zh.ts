@@ -116,6 +116,10 @@ export const zhSidebar = sidebar({
       collapsible: true,
       children: [
         { text: "Golang", link: "Golang", icon: "golang" },
+        { text: "Golang2", link: "Golang2", icon: "golang" },
+        { text: "Golang之数据库", link: "Golang之数据库", icon: "golang" },
+        { text: "Golang之OS", link: "Golang之OS模块", icon: "golang" },
+        { text: "Docker", link: "Docker", icon: "Docker" },
       ],
     },
   ],
