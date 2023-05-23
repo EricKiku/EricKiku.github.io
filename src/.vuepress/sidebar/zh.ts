@@ -135,6 +135,7 @@ export const zhSidebar = sidebar({
     { text: '软件设计重点', icon: 'xitongjianmo', link: "软件设计重点" },
     { text: '前端八股文', icon: 'xitongjianmo', link: "前端八股文(面试题)" },
     { text: '网络工程师', icon: 'xitongjianmo', link: "网络工程师" },
+    { text: '案例题', icon: 'xitongjianmo', link: "案例题" },
   ],
   "/zh/master/": [
     "",
