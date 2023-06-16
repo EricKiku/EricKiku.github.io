@@ -139,6 +139,7 @@ export const zhSidebar = sidebar({
     { text: '案例题', icon: 'xitongjianmo', link: "案例题" },
     { text: '数据挖掘', icon: 'project', link: "数据挖掘" },
     { text: '软件项目', icon: 'project', link: "软件工程与项目" },
+    { text: '英语', icon: 'project', link: "英语" },
   ],
   "/zh/master/": [
     "",
