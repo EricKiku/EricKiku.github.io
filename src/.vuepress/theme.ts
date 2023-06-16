@@ -4,11 +4,11 @@ import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://mister-hope.github.io",
-  darkmode:"toggle",
+  darkmode: "toggle",
   author: {
     name: "EricKiku",
     url: "https://github.com/EricKiku",
-   
+
   },
   iconAssets: "//at.alicdn.com/t/c/font_3891536_4cnxmdieavl.css",
   logo: "/roundmylogo.png",
@@ -77,7 +77,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      // "/zh/posts/": ["213055"],
+      "/zh/posts/": ["213055"],
     },
   },
 
