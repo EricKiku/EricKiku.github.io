@@ -142,6 +142,7 @@ export const zhSidebar = sidebar({
     { text: '英语', icon: 'project', link: "英语" },
     { text: '人工智能', icon: 'project', link: "人工智能" },
     { text: '软件测试', icon: 'project', link: "软件测试" },
+    { text: '日语期末', icon: 'project', link: "日语期末" },
   ],
   "/zh/master/": [
     "",
