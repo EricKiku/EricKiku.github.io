@@ -12,8 +12,7 @@ export default defineUserConfig({
     // },
     "/zh/": {
       lang: "zh-CN",
-      title: "博客",
-      description: "vuepress-theme-hope 的博客演示",
+      title: "笔记",
     },
   },
   lang: "zh-CN",

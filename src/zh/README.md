@@ -3,12 +3,10 @@ home: true
 hero: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: 笔记
 heroImage: /roundmylogo.png
-heroText: EricKiku's Blog
+heroText: Yizhe's Note
 heroFullScreen: true
 tagline: 少年心事当拿云，谁念幽寒坐呜咽。
 bgImage: /bgImage1.jpg
-
-footer: 自定义你的页脚文字
 ---

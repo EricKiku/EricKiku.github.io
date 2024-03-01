@@ -6,9 +6,8 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
   darkmode: "toggle",
   author: {
-    name: "EricKiku",
+    name: "Yizhe",
     url: "https://github.com/EricKiku",
-
   },
   iconAssets: "//at.alicdn.com/t/c/font_3891536_4cnxmdieavl.css",
   logo: "/roundmylogo.png",
